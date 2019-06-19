@@ -1,0 +1,14 @@
+{
+  "name": "habit-game-creator",
+  "version": "0.0.1",
+  "description": "A place for generating Habit Game characters!",
+  "main": "src/creator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "asmodeusxi",
+  "license": "MIT",
+  "devDependencies": {
+    "name-maker": "^1.1.1"
+  }
+}
