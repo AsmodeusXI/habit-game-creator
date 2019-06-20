@@ -1,4 +1,4 @@
-const jobs = require("../conf/jobs.json");
+const genres = require("../conf/genres.json");
 const traits = require("../conf/traits.json");
 const pronouns = [ 'he/him', 'she/her', 'they/them' ];
 const nameMaker = require("name-maker");
@@ -20,8 +20,9 @@ function getTrait() {
 }
 
 function getJobAndQuest() {
-	let job = Object.keys(jobs)[getRandomInteger(0, Object.keys(jobs).length)];
-	let quest = jobs[job][getRandomInteger(0, jobs[job].length)];
+	let genre = Object.keys(genres)[getRandomInteger(0, Object.keys(genres).length)];
+	let job = Object.keys(genres[genre])[getRandomInteger(0, Object.keys(genres[genre]).length)];
+	let quest = genres[genre][job][getRandomInteger(0, genres[genre][job].length)];
 	return `${job} who seeks ${quest}.`;
 }
 

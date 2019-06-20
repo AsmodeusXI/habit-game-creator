@@ -1,0 +1,108 @@
+{
+	"Fantasy": {
+		"Fighter": [
+			"to defeat a legendary foe",
+			"to take vengeance on an enemy",
+			"to protect their hometown",
+			"to learn a secret technique"
+		],
+		"Cleric": [
+			"to consecrate a new temple",
+			"to destroy an anathema",
+			"to spread the word of the Divine",
+			"to convince the doubters of their righteousness"
+		],
+		"Thief": [
+			"to steal an incredible treasure",
+			"to escape pursuit",
+			"to pay of a long-held debt",
+			"to rob the rich and give to the poor"
+		],
+		"Wizard": [
+			"to research a new spell",
+			"to discover a magical secret",
+			"to summon an arcane entity",
+			"to outwit a talented rival"
+		]
+	},
+	"Space Epic": {
+		"Ace Pilot": [
+
+		],
+		"Technician": [
+
+		],
+		"Scientist": [
+
+		],
+		"Commander": [
+
+		],
+		"Doctor": [
+
+		],
+		"Psion": [
+
+		]
+	},
+	"Cyberpunk": {
+		"Hacker": [
+
+		],
+		"Face": [
+
+		],
+		"Gunner": [
+
+		],
+		"Enhanced Blade": [
+
+		],
+		"Transporter": [
+
+		],
+		"Synthetic": [
+
+		]
+	},
+	"Urban Fantasy": {
+		"Witch": [
+
+		],
+		"Vampire": [
+
+		],
+		"Werewolf": [
+
+		],
+		"Slayer": [
+
+		],
+		"Telepath": [
+
+		],
+		"Mortal": [
+
+		]
+	},
+	"Superhero": {
+		"Champion": [
+
+		],
+		"Speedster": [
+
+		],
+		"Mutant": [
+
+		],
+		"Weapon Master": [
+
+		],
+		"Beast Tamer": [
+
+		],
+		"Outworlder": [
+
+		]
+	}
+}
