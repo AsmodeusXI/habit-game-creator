@@ -1,7 +1,11 @@
+// Utility functions and required modules
+const utils = require("./utils.js");
+const nameMaker = require("name-maker");
+
+// Config files and arrays
 const genres = require("../conf/genres.json");
 const traits = require("../conf/traits.json");
 const pronouns = [ 'he/him', 'she/her', 'they/them' ];
-const nameMaker = require("name-maker");
 
 function generateCharacter() {	
 	return `${getFirstName()} (${getPronouns()}), the ${getTrait()} ${getJobAndQuest()}`;
@@ -12,24 +16,18 @@ function getFirstName() {
 }
 
 function getPronouns() {
-	return pronouns[getRandomInteger(0, pronouns.length)];
+	return utils.getRandomArrayElement(pronouns);
 }
 
 function getTrait() {
-	return traits.Traits[getRandomInteger(0, traits.Traits.length)];
+	return utils.getRandomArrayElement(traits.Traits);
 }
 
 function getJobAndQuest() {
-	let genre = Object.keys(genres)[getRandomInteger(0, Object.keys(genres).length)];
-	let job = Object.keys(genres[genre])[getRandomInteger(0, Object.keys(genres[genre]).length)];
-	let quest = genres[genre][job][getRandomInteger(0, genres[genre][job].length)];
+	let genre = utils.getRandomObjectKey(genres);
+	let job = utils.getRandomObjectKey(genres[genre]);
+	let quest = utils.getRandomArrayElement(genres[genre][job]);
 	return `${job} who seeks ${quest}.`;
-}
-
-function getRandomInteger(min, max) {
-	min = Math.ceil(min);
-	max = Math.floor(max);
-	return Math.floor(Math.random() * (max-min)) + min;
 }
 
 console.log(generateCharacter());
