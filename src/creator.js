@@ -30,4 +30,6 @@ function getJobAndQuest() {
 	return `${job} who seeks ${quest}.`;
 }
 
-console.log(generateCharacter());
+module.exports = {
+	generateCharacter: generateCharacter
+};

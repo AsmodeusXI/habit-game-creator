@@ -1,0 +1,14 @@
+languages: node_js
+branches:
+  only: master
+before_script:
+- npm install -g npm@'>=3'
+- npm install
+deploy:
+  skip_cleanup: true
+  provider: npm
+  email: asmodeusxi@gmail.com
+  on:
+    branch: master
+  api_key:
+    secure: ASvCR/h14Nr3UI29BgqmuHDZPIVLgHZzB1ZsbmNWrWu+sBmoVUQlYwXuz7rBHEIR7qCmPzRrX1574MQfWJAS1MocAN7XIzrlXRxK3yhmfVSaeyNjUby4Rx9j9uXAxs8P7Bap6Z8sd4AziULtlvoxhMfXTlwk/tfwMHjtXn0Cqwoxy0WDj9Sg7G13rMywmLaBlR/BZ0TN7rgwdq1axZHJoWaKehOYcDYKV4aOz45kteUT8v8o7neI0/woquWTW/c0lz0H+tY7pGu4GUYzxCZC1K1sTe7FALyQUW1OcBtLdGyaotsnNbEjB87MrSL8kJ2AYWFqvXvSvhWzt6xWlLavJTAL5N4ElhJqdToAwD4BdjkOt7G45dE2VuK2ko2CyXCZKYgzBTMrQq299q8thzmTX6ETx3TMHvVCCrDEE3RFQBSL2SZVTl14KZPBGHyvFcZ2n/4Qa1H9hrcLP+x7dmaB9vuf32hsa3Avx7vmLBo7pzT2+PZloCZIO6qN0nvirTqqG5C0D+P9FrZvioF5oWD8SqCBEfXPOx/wfhDqR1AxHJOnXwhXIxbVrDhrMWC8aNOrsbO2RBD3xq1HCKBxuuRYDNf+NvNq0nBhcahiM04Sg5Nk+y+Sv7JcI4On1CLAHSD1h/5REpje6SKUnAl4wWFuWZcpXuGwUdRTsXAwGobZ5jY=
