@@ -4,7 +4,6 @@
   "description": "A place for generating Habit Game characters!",
   "main": "src/creator.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "asmodeusxi",
   "license": "MIT",
