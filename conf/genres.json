@@ -15,7 +15,7 @@
 		"Thief": [
 			"to steal an incredible treasure",
 			"to escape pursuit",
-			"to pay of a long-held debt",
+			"to pay off a long-held debt",
 			"to rob the rich and give to the poor"
 		],
 		"Wizard": [
@@ -25,90 +25,120 @@
 			"to outwit a talented rival"
 		],
 		"Druid": [
-
+			"to protect the borders of an ancient forest",
+			"to plant the seed of a sacred tree",
+			"to annihilate a manifestation of unnatural artifice",
+			"to speak for a herd of endangered animals"
 		],
 		"Bard": [
-
+			"to learn the epic of a lost legend",
+			"to perform on the stage of the monarch",
+			"to teach the masses a hidden history",
+			"to revive a lost form of art"
 		]
 	},
 	"Space Epic": {
 		"Ace Pilot": [
-
+			"to take victory in a popular and dangerous race",
+			"to come out of an intense dogfight unscathed"
 		],
 		"Technician": [
-
+			"to build the most efficient FTL engine",
+			"to keep the ship running while under heavy fire"
 		],
 		"Scientist": [
-
+			"to study alien biology up close",
+			"to ascertain the secrets of the cold star"
 		],
 		"Commander": [
-
+			"to get the next promotion, whatever it takes",
+			"to keep the crew out of the line of fire and away from the corrupt admiralty"
 		],
 		"Doctor": [
-
+			"to cure the mysterious disease effecting the fleet",
+			"to unlock the hidden potential within humanity's genome"
 		],
 		"Psion": [
-
+			"to probe the mysterious origins of psionics",
+			"to rescue fellow psychics from imprisonment within the Institute"
 		]
 	},
 	"Cyberpunk": {
 		"Hacker": [
-
+			"to crack the corporate database that no one has been able to crack",
+			"to free information from the control of the corps"
 		],
 		"Face": [
-
+			"to go in with a drink and a smile and come out rich",
+			"to assure the client that nothing could go wrong with this band of runners"
 		],
 		"Gunner": [
-
+			"to put the experimental assault rifle to work on the front lines",
+			"to get out from under the debt that motivates the mercenary lifestyle"
 		],
 		"Enhanced Blade": [
-
+			"to acquire new and powerful cyberware",
+			"to show the world of guns and explosives the simplicity of the sword"
 		],
 		"Transporter": [
-
+			"to drive out of a war zone with the cargo in tact",
+			"to gain the enhanced reflexes necessary to make increasingly dangerous maneuvers"
 		],
 		"Synthetic": [
-
+			"to locate a storage space with the capacity to contain a consciousness",
+			"to provide evidence that synthetic life is equivalent to biological life"
 		]
 	},
 	"Urban Fantasy": {
 		"Witch": [
-
+			"to summon a demonic presence",
+			"to tear down a patriarchal institution"
 		],
 		"Vampire": [
-
+			"to conquer any bloodthirsty instinct",
+			"to slake the thirst without being discovered"
 		],
 		"Werewolf": [
-
+			"to sniff out a place where transformation is less painful and less threatening",
+			"to master the transformation and use it on nights other than the full moon"
 		],
 		"Slayer": [
-
+			"to put a terrible monster to death",
+			"to avenge a fallen partner"
 		],
 		"Telepath": [
-
+			"to master the ability to block out the sounds of other minds",
+			"to find the killer by delving into dark memories"
 		],
 		"Mortal": [
-
+			"to show that even the unpowered can defeat evil",
+			"to escape without being found by anything with hideous teeth or claws"
 		]
 	},
 	"Superhero": {
 		"Champion": [
-
+			"to defend truth and justice with a righetous fist",
+			"to stop the monorail from derailing with the passengers onboard"
 		],
 		"Speedster": [
-
+			"to go even faster than before",
+			"to outwit a near-invulnerable enemy with sheer velocity"
 		],
 		"Mutant": [
-
+			"to take down a rival who believes that mutants are a superior form of life",
+			"to prevent a massacre perpetrated by those who see mutants as monsters"
 		],
 		"Weapon Master": [
-
+			"to uncover techniques that even the greatest adepts never knew",
+			"to finally use these arts to protect rather than hunt"
 		],
 		"Beast Tamer": [
-
+			"to create a hidden sanctuary for the animals who save the city just as often as you",
+			"to undermine a long-developed plan with the simple application of some chaos"
 		],
 		"Outworlder": [
-
+			"to understand how humanity survives in spite of their constant self-destruction",
+			"to return to the world that discarded its child"
 		]
 	}
 }
