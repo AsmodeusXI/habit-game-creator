@@ -4,142 +4,213 @@
 			"to defeat a legendary foe",
 			"to take vengeance on an enemy",
 			"to protect their hometown",
-			"to learn a secret technique"
+			"to learn a secret technique",
+			"to oust the corrupt enforcers",
+			"to master a new weapon",
+			"to challenge the gladiators of the arena"
 		],
 		"Cleric": [
 			"to consecrate a new temple",
 			"to destroy an anathema",
 			"to spread the word of the Divine",
-			"to convince the doubters of their righteousness"
+			"to convince the doubters of their righteousness",
+			"to cleanse a once-sacred site"
 		],
 		"Thief": [
 			"to steal an incredible treasure",
 			"to escape pursuit",
 			"to pay off a long-held debt",
-			"to rob the rich and give to the poor"
+			"to rob the rich and give to the poor",
+			"to get in the good graces of the Thieves' guild"
 		],
 		"Wizard": [
 			"to research a new spell",
 			"to discover a magical secret",
 			"to summon an arcane entity",
-			"to outwit a talented rival"
+			"to outwit a talented rival",
+			"to build an unrivaled laboratory"
 		],
 		"Druid": [
 			"to protect the borders of an ancient forest",
 			"to plant the seed of a sacred tree",
 			"to annihilate a manifestation of unnatural artifice",
-			"to speak for a herd of endangered animals"
+			"to speak for a herd of endangered animals",
+			"to help a legendary animal give birth",
+			"to assuage the fears of an aging animal"
 		],
 		"Bard": [
 			"to learn the epic of a lost legend",
 			"to perform on the stage of the monarch",
 			"to teach the masses a hidden history",
-			"to revive a lost form of art"
+			"to revive a lost form of art",
+			"to sing a love song for an ancient goddess",
+			"to swindle a corrupt oligarch with confusing allegories"
 		]
 	},
 	"Space Epic": {
 		"Ace Pilot": [
 			"to take victory in a popular and dangerous race",
 			"to come out of an intense dogfight unscathed",
-			"to shoot down the enemy fleet's ace"
+			"to shoot down the enemy fleet's ace",
+			"to survive a sudden ejection",
+			"to navigate correctly through an asteroid field"
 		],
 		"Technician": [
 			"to build the most efficient FTL engine",
-			"to keep the ship running while under heavy fire"
+			"to keep the ship running while under heavy fire",
+			"to climb through the ship's innards to reach the core",
+			"to prepare a suit that will keep the crew on the away team healthy"
 		],
 		"Scientist": [
 			"to study alien biology up close",
-			"to ascertain the secrets of the cold star"
+			"to ascertain the secrets of the cold star",
+			"to understand the impossible space ship",
+			"to construct an instrument that can measure the output of a black hole"
 		],
 		"Commander": [
 			"to get the next promotion, whatever it takes",
-			"to keep the crew out of the line of fire and away from the corrupt admiralty"
+			"to keep the crew out of the line of fire and away from the corrupt admiralty",
+			"to save the ship from an overwhelming threat",
+			"to discuss a promotion with a trusted second-in-command"
 		],
 		"Doctor": [
 			"to cure the mysterious disease effecting the fleet",
-			"to unlock the hidden potential within humanity's genome"
+			"to unlock the hidden potential within humanity's genome",
+			"to comfort someone who just lost a loved one",
+			"to attempt to heal an alien whose biology is barely comprehensible"
 		],
 		"Psion": [
 			"to probe the mysterious origins of psionics",
-			"to rescue fellow psychics from imprisonment within the Institute"
+			"to rescue fellow psychics from imprisonment within the Institute",
+			"to wrest a massive object out of its path with the mind alone",
+			"to overwhelm an overconfident opponent with hidden talents"
 		]
 	},
 	"Cyberpunk": {
 		"Hacker": [
 			"to crack the corporate database that no one has been able to crack",
-			"to free information from the control of the corps"
+			"to free information from the control of the corps",
+			"to plant a hardline connection that guarantees illicit access",
+			"to use a corporation's methods for control against them",
+			"to meet a contact undercover in a digital space"
 		],
 		"Face": [
 			"to go in with a drink and a smile and come out rich",
-			"to assure the client that nothing could go wrong with this band of runners"
+			"to assure the client that nothing could go wrong with this band of runners",
+			"to berate a team member for failing to meet a key objective",
+			"to fasttalk the high rollers while the crew pulls off a heist",
+			"to fit into a high society crowd even though they certainly don't belong"
 		],
 		"Gunner": [
 			"to put the experimental assault rifle to work on the front lines",
-			"to get out from under the debt that motivates the mercenary lifestyle"
+			"to get out from under the debt that motivates the mercenary lifestyle",
+			"to shoot their way out of a veritable bunker",
+			"to figure out how to blast down the door... then do it"
 		],
 		"Enhanced Blade": [
 			"to acquire new and powerful cyberware",
-			"to show the world of guns and explosives the simplicity of the sword"
+			"to show the world of guns and explosives the simplicity of the sword",
+			"to merge technology with an existing weapon",
+			"to duel a fellow wielder of steel and circuitry"
 		],
 		"Transporter": [
 			"to drive out of a war zone with the cargo in tact",
-			"to gain the enhanced reflexes necessary to make increasingly dangerous maneuvers"
+			"to gain the enhanced reflexes necessary to make increasingly dangerous maneuvers",
+			"to load the vehicle under heavy fire",
+			"to coordinate their drones' actions to take down a foe",
+			"to use their knowledge of the streets and their vehicle to confound pursuers"
 		],
 		"Synthetic": [
 			"to locate a storage space with the capacity to contain a consciousness",
-			"to provide evidence that synthetic life is equivalent to biological life"
+			"to justify synthetic life to an bigoted populace",
+			"to change into a body more fitting to their current identity",
+			"to repair a malfunctioning limb"
 		]
 	},
 	"Urban Fantasy": {
 		"Witch": [
 			"to summon a demonic presence",
-			"to tear down a patriarchal institution"
+			"to tear down a patriarchal institution",
+			"to undermine the goals of an opposing coven",
+			"to establish a coven to dominate the region",
+			"to brew a potion that cures a vile curse",
+			"to curse one who betrayed their coven"
 		],
 		"Vampire": [
 			"to conquer any bloodthirsty instinct",
-			"to slake the thirst without being discovered"
+			"to slake the thirst without being discovered",
+			"to procure an invite to the manor of an influential family",
+			"to give new life to their spawn",
+			"to mourn the passing of their old life into memory"
 		],
 		"Werewolf": [
 			"to sniff out a place where transformation is less painful and less threatening",
-			"to master the transformation and use it on nights other than the full moon"
+			"to master the transformation and use it on nights without a full moon",
+			"to hunt as a pack with their fellow wolves",
+			"to defeat an institution that sees the pack as mere beasts"
 		],
 		"Slayer": [
 			"to put a terrible monster to death",
-			"to avenge a fallen partner"
+			"to avenge a fallen partner",
+			"to use a legendary weapon to put down a fell beast",
+			"to confess their incredible abilities to a close friend",
+			"to avoid an upfront confrontation while they attempt to heal"
 		],
 		"Telepath": [
 			"to master the ability to block out the sounds of other minds",
-			"to find the killer by delving into dark memories"
+			"to find the killer by delving into dark memories",
+			"to anticipate upcoming dangers by surveying nearby thoughts",
+			"to help someone you love uncover secrets hidden from themselves"
 		],
 		"Mortal": [
 			"to show that even the unpowered can defeat evil",
-			"to escape without being found by anything with hideous teeth or claws"
+			"to escape without being found by anything with hideous teeth or claws",
+			"to bind themselves to powerful individuals",
+			"to process the knowledge that a close friend is a warrior with super-strength",
+			"to seek out any power that would keep you safe from the threats you see every day"
 		]
 	},
 	"Superhero": {
 		"Champion": [
-			"to defend truth and justice with a righetous fist",
-			"to stop the monorail from derailing with the passengers onboard"
+			"to defend truth and justice with a righteous fist",
+			"to stop the monorail from derailing with the passengers onboard",
+			"to go toe-to-toe with the dastardly villain who simply will not cease their crimes",
+			"to fly fists first into a conflict they do not fully comprehend",
+			"to resist an assault that would lay low another hero"
 		],
 		"Speedster": [
 			"to go even faster than before",
-			"to outwit a near-invulnerable enemy with sheer velocity"
+			"to outwit a near-invulnerable enemy with sheer velocity",
+			"to rush into a terrifying situation and rush out with equivalent speed",
+			"to defy the laws of physics with ever-increasing acceleration",
+			"to shatter records and barriers in an unexpected moment"
 		],
 		"Mutant": [
 			"to take down a rival who believes that mutants are a superior form of life",
-			"to prevent a massacre perpetrated by those who see mutants as monsters"
+			"to prevent a massacre perpetrated by those who see mutants as monsters",
+			"to adjust to their surprising and sometimes-dangerous biology",
+			"to convince a friend that their mutation hasn't changed who they are",
+			"to realize their incredible powers when their life is put in danger"
 		],
 		"Weapon Master": [
 			"to uncover techniques that even the greatest adepts never knew",
-			"to finally use these arts to protect rather than hunt"
+			"to finally use these arts to protect rather than hunt",
+			"to purchase a few new toys from their favorite dealer",
+			"to forge a new weapon worthy of their brilliance"
 		],
 		"Beast Tamer": [
 			"to create a hidden sanctuary for the animals who save the city just as often as you",
-			"to undermine a long-developed plan with the simple application of some chaos"
+			"to undermine a long-developed plan with the application of some chaos",
+			"to meet a new animal companion that can help you tackle a pressing concern",
+			"to spend time relaxing with their animal allies",
+			"to use the lessons of the animal kingdom to solve a human dilemma"
 		],
 		"Outworlder": [
 			"to understand how humanity survives in spite of their constant self-destruction",
-			"to return to the world that discarded its child"
+			"to return to the world that discarded its child",
+			"to defy an interstellar conquerer",
+			"to aid humanity in reaching the stars",
+			"to cure the plague that ravaged their home"
 		]
 	}
 }
